@@ -1,4 +1,5 @@
 #icecream REDUX.py
+#THIS FILE IS AN UPDATE ON ICEREAM AND ICECREAM2 btw
 answer = input("what icecream do u likey, also dont capitalize words im kinda lazy rn: ")
 if answer == "chocolate":
     print("thats basic")
